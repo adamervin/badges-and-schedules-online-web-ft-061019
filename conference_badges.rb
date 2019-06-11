@@ -8,7 +8,8 @@ def batch_badge_creator(names)
  end
 end
   
- def assign_rooms(attendees)
+  def 
+ def printer(attendees)
    batch_badge_creator (person) each.do |person|
      puts person
  end
