@@ -18,4 +18,5 @@ end
    batch_badge_creator (attendes).each do |person|
      puts person
  end
+end
  
